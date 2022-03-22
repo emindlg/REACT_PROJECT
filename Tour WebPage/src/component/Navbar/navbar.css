@@ -1,0 +1,20 @@
+.navbar a {
+    height: 100%;
+    padding: 1rem;
+  }
+  
+  .navbar a:hover {
+    background-color: #076072a4;
+    color: rgb(0, 0, 0);
+    transition: 0.5s;
+  }
+  .navbar {
+    height: 100%;
+    padding: 0;
+    color: white;
+    text-decoration: none;
+  }
+
+  body{
+      background-color: #076072a4;
+  }
